@@ -41,7 +41,7 @@ The description is taken from the article https://www.pyimagesearch.com/2016/03/
 
 
 
-#Requirement
+# Requirement
 <ul>
   <li>pip install --upgrade imutils</li>
   <li>pip install opencv</li>
